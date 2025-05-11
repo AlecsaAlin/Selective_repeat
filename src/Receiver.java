@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Receiver {
-    public ArrayList<Package> vector;
+    public ArrayList<Pack> vector;
     public Receiver() {
         vector = new ArrayList<>();
     }
